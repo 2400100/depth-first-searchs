@@ -121,7 +121,7 @@ print("DFS Traversal Path:", traversedpath)
 ```
 
 
-<h3>OUTPUT:</h3>
+## OUTPUT:
 
 <img width="483" height="237" alt="image" src="https://github.com/user-attachments/assets/64b0c823-ece1-4776-ae61-2a32145fe105" />
 
